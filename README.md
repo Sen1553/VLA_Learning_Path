@@ -30,5 +30,5 @@ VLA 领域工作众多，本仓库不追求完整收录，仅记录具有代表�
 | 4 | Diffusion/Flow-based | [$\pi_{0}$: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/abs/2410.24164) | 2024.10 | 在预训练 VLM 上引入 Flow Matching 动作专家，并利用跨机器人平台的大规模数据训练通用机器人策略。 | 待整理 |
 | 5 | Diffusion/Flow-based | [$\pi_{0.5}$: a Vision-Language-Action Model with Open-World Generalization](https://arxiv.org/abs/2504.16054) | 2025.04 | 在 $\pi_{0}$ 之上引入异构数据协同训练与高层语义子任务预测，使机器人能在未见过的家庭环境中完成长时程、灵巧操作。 | <a href="./reading_note/pi05/pi05.png"><img src="./reading_note/pi05/pi05.png" alt="π_0.5 总结 PDF 首页" width="160"></a> |
 | 6 | Diffusion/Flow-based | [$π^{*}_{0.6}$: a VLA That Learns From Experience](https://arxiv.org/abs/2511.14759) | 2025.11 | 引入价值网络，提出RECAP迭代式离线强化学习框架，利用demonstration、部署后rollout数据、人类干预数据迭代变强 |<a href="./reading_note/pi06/pi06.png"><img src="./reading_note/pi06/pi06.png" alt="π_0.6 总结 PDF 首页" width="160"></a>  |
-
+| 7 | -- | [State of VLA Research at ICLR 2026](https://mbreuss.github.io/blog_post_iclr_26_vla.html) | 2025.10 | 基于ICLR 2025的提交论文，梳理VLA研究现状（定义、研究热点、benchmark等） | <a href="./reading_note\state_of_vla\state_of_vla.png"><img src="./reading_note\state_of_vla\state_of_vla.png" alt="State of VLA Research at ICLR 2026 总结 PDF 首页" width="160"></a>  |
 
